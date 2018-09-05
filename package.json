@@ -1,0 +1,29 @@
+{
+  "name": "colorful.css",
+  "version": "1.0.0",
+  "description": "colorful.css",
+  "main": "index.js",
+  "bin": {
+    "colorful": "./bin/script.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zexiplus/colorful.css.git"
+  },
+  "keywords": [
+    "colorful.css"
+  ],
+  "author": "simple.css",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zexiplus/colorful.css/issues"
+  },
+  "homepage": "https://github.com/zexiplus/colorful.css#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1"
+  }
+}
