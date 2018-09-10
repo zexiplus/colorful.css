@@ -1,7 +1,7 @@
 const { cutArr, sortByOptions, logWithColors } = require('./lib/core')
-const themes = require('./lib/themes')
+const createCss = require('./lib/createcss')
 
-function colorful(arr, options) {
+function listColors(arr, options) {
     if (!options) {
         return logWithColors(arr)
     } else {
@@ -15,8 +15,9 @@ function colorful(arr, options) {
     }
 }
 
-colorful(themes)
+// colorful(themes)
 
 module.exports = {
-
+    listColors,
+    createCss
 }
