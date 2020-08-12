@@ -1,7 +1,7 @@
 # colorful.css
 colorful.css
 
-[demo page](https://zexiplus.github.io/site/colorful/index.html)
+[demo page](https://zexiplus.github.io/colorful.css)
 
 
 
